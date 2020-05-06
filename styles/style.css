@@ -1,12 +1,12 @@
-.bg-roxo{
+.bg-roxo {
     background-color: #7E459B;
 }
 
-a:hover{
+a:hover {
   font-weight: bold;
 }
 
-.imagem-carousel{
+.imagem-carousel {
   object-fit: cover;
   object-position: 0 60%;
   height: 210vh;
@@ -19,4 +19,12 @@ a:hover{
 
 .link-sobre:hover{
   color: #7E459B;
+}
+
+.redes-sociais i {
+font-size: 1.6rem;
+}
+
+.font-roxo {
+color: rgb(75, 38, 94);
 }
