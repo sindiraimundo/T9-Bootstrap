@@ -9,7 +9,7 @@ a:hover {
 .imagem-carousel {
   object-fit: cover;
   object-position: 0 60%;
-  height: 210vh;
+  height: 25rem;
  
 }
 
@@ -26,5 +26,18 @@ font-size: 1.6rem;
 }
 
 .font-roxo {
-color: rgb(75, 38, 94);
+color: rgb(171, 102, 206);
+}
+
+button {
+  width: 100px;
+}
+
+button:hover {
+  opacity: .9;
+}
+
+.img-cards{
+  object-fit: cover;
+  height: 13rem;
 }
